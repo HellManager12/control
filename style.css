@@ -1,0 +1,5 @@
+.zadacha {font-family: 'Times New Roman', Times, serif; font-size: 15pt;width: 80%; border-left: 10px solid navy; background-color: rgba(0, 120,201, 0.4); border-radius: 10px; padding: 10px;}
+td{vertical-align: top; padding: 10px;}
+#tablichka{border-collapse: collapse; margin-top: 20px; margin-left: 10px;}
+.tdtop{border-bottom: 5px solid black; }
+.tdleft{border-right:5px solid black ;}
